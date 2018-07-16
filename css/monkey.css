@@ -8,7 +8,7 @@ html {
   right: 120px;
 }
 
-@media only screen and (min-width: 1309px) {
+@media only screen and (max-width: 1309px) {
   #ostrich {
     position: absolute;
     top: 50px;
