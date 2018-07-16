@@ -8,9 +8,9 @@ html {
   right: 120px;
 }
 
-@media only screen and (max-width: 1309px) {
-  #ostrich {
+@media only screen and (min-width: 406px) and (max-width:1090px) {
+  #monkey {
     position: absolute;
-    top: 50px;
+    top: 550px;
     right: 120px;
   }
