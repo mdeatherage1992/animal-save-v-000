@@ -8,5 +8,9 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
-
+@media only screen and (max-width: 1309px) {
+  #ostrich {
+    position: absolute;
+    top: 50px;
+    right: 120px;
+  }
