@@ -8,12 +8,12 @@ html {
   right: 0;
 }
 
-/*@media only screen and (min-width: 1196px) {
+@media only screen and (min-width: 1196px) {
   #bear {
     position: left;
     top: 100px;
     right: 0;
-  }*/
+  }
 
 For the bear, when sizing the browser from smaller to larger (mobile up),
 when the screen reaches 1196px stop him from falling off
